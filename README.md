@@ -83,4 +83,8 @@ build_exe.bat           gera o executável
 
 ## Licença
 
-MIT. Veja o arquivo `LICENSE`.
+**Gratuito para testes e uso pessoal. Não é permitido vender nem usar comercialmente.**
+
+Você pode usar, estudar e modificar o projeto gratuitamente (inclusive nas suas candidaturas
+de emprego). Vender, oferecer como serviço pago ou usar para gerar receita exige autorização
+do autor. Detalhes no arquivo [`LICENSE`](LICENSE).
