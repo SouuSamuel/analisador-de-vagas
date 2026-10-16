@@ -1,0 +1,29 @@
+# Segredos e configuração local
+.env
+.env.*
+!.env.example
+config.json
+preferencias.json
+
+# Dados pessoais
+curriculos/
+*.pdf
+*.docx
+erro.log
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Build do .exe
+build/
+dist/
+*.spec
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
